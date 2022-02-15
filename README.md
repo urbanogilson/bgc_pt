@@ -15,7 +15,7 @@ Este repositório foi criado para que a tradução do livro para o Português es
 
 - [x] bgc_part_0100_boilerplate
 - [x] bgc_part_0150_intro
-- [ ] bgc_part_0200_var_stat
+- [x] bgc_part_0200_var_stat
 - [ ] bgc_part_0300_functions
 - [ ] bgc_part_0400_pointers
 - [ ] bgc_part_0500_arrays
